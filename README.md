@@ -71,7 +71,7 @@ The initial seed pattern grows and reproduces autonomously over time.
 # 🌐 Live Demo
 
 ```txt
-https://langtons-loop-h1q54sgku-herry-projects.vercel.app/
+https://langtons-loop-fm0l0rzcc-herry-projects.vercel.app/
 ```
 
 ---
